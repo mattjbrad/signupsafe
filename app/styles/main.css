@@ -1,0 +1,110 @@
+.content {
+  background-color: #34839D;
+  color: #3B4B54;
+}
+
+.bar1 {
+  background-color: #00B198;
+  height: 150px;
+  font-size: 7em;
+  line-height: 150px;
+}
+
+.bar2 {
+  height: 120px;
+  color: #C6E6EC;
+  font-size: 5em;
+  line-height:120px;
+}
+
+.bar3 {
+  background-color: #C6E6EC;
+  padding-bottom: 10px;
+}
+
+.bar3 p {
+  font-size: 2.2em;
+  color: #3B4B54;
+}
+
+.bar3 .rightside {
+  font-size: 2.2em;
+  color: #34839D;
+}
+
+.bar3 .rightside span {
+  color: #00B198;
+}
+
+.bar4 {
+  height: 235px;
+}
+
+body {
+  background-color: #34839D;
+  overflow-x: hidden;
+}
+
+.vertical {
+  line-height: 115px;
+  font-size: 2.2em;
+}
+
+.vertical a {
+  color: #C6E6EC;
+}
+
+.vertical a:hover {
+  color: #34839D;
+  text-decoration: none;
+}
+
+.buttonclass {
+  font-size: 1em;
+  color: #C6E6EC;
+  background-color: #00B198;
+}
+
+#events {
+  padding-top: 30px;
+}
+
+.fadedback {
+  background-color: #3B4B54;
+}
+
+.container .fadedback p {
+  color: #C6E6EC;
+}
+
+.container .fadedback span {
+  color: #00B198;
+}
+
+.robot {
+  position: absolute;
+  right: 0px;
+}
+
+.register-button {
+  background-color: #00B198
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.signupArea {
+  margin-top: 30px;
+  background-color: #3B4B54;
+}
+
+input {
+  height: 50px !important;
+  font-size: 2em !important;
+}
+
+.bluebutton {
+  background-color: #34839D !important;
+  border-color: #fff !important;
+}
